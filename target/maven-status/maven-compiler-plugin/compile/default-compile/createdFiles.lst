@@ -1,0 +1,16 @@
+com\example\productapplication\service\ProductServiceImpl.class
+com\example\productapplication\model\Role.class
+com\example\productapplication\controller\AuthController.class
+com\example\productapplication\controller\ProductController.class
+com\example\productapplication\model\User.class
+com\example\productapplication\service\MyUserDetailsService.class
+com\example\productapplication\security\JwtRequestFilter.class
+com\example\productapplication\security\SecurityConfig.class
+com\example\productapplication\repository\UserRepository.class
+com\example\productapplication\service\ProductService.class
+com\example\productapplication\dto\AuthResponse.class
+com\example\productapplication\service\JwtService.class
+com\example\productapplication\repository\ProductRepository.class
+com\example\productapplication\dto\AuthRequest.class
+com\example\productapplication\model\Product.class
+com\example\productapplication\ProductApplication.class
